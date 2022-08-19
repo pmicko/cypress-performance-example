@@ -1,0 +1,15 @@
+{
+  "name": "poc-cypress-performance",
+  "version": "1.0.0",
+  "description": "Example of performance tests and performance audit with Cypress",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "10.4.0",
+    "cypress-audit": "1.1.0",
+    "typescript": "4.7.4"
+  }
+}
