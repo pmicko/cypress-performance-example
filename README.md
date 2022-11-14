@@ -1,3 +1,5 @@
+[![cypress-performance-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/6bu4w2&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/6bu4w2/runs)
+
 # cypress-performance-example
 Example of frontend performance tests and performance audit using Cypress framework and browser's performance API
 
