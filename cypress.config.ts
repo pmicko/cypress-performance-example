@@ -3,6 +3,7 @@ const { lighthouse, pa11y, prepareAudit } = require("cypress-audit");
 
 export default defineConfig({
   e2e: {
+    projectId: '6bu4w2',
     viewportWidth: 1081,
     viewportHeight: 860,
     video: false,
